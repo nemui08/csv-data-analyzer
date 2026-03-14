@@ -27,6 +27,7 @@ python csv_analyzer.py
 
 ## Example Menu
 
+```
 === CSV Data Analyzer ===
 
 1: Show Data
@@ -34,3 +35,4 @@ python csv_analyzer.py
 3: Subject Statistics
 4: Filter Student
 5: Exit
+```
