@@ -19,11 +19,15 @@ A command-line tool for analyzing CSV data using Python and Pandas.
 
 Install pandas
 
+```
 pip install pandas
+```
 
 Run program
 
+```
 python csv_analyzer.py
+```
 
 ## Example Menu
 
